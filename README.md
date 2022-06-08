@@ -11,7 +11,7 @@ This is a Flutter package for the open-source color system Reasonable Colors, ma
 ## Installation
 
 ```console
-dart pub add flutter_reasonable_colors
+flutter pub add flutter_reasonable_colors
 ```
 
 ## Getting started
