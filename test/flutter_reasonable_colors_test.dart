@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:flutter_reasonable_colors/colors.dart';
+import 'package:flutter_reasonable_colors/flutter_reasonable_colors.dart';
 import 'package:flutter/painting.dart';
 
 const List<int> primaryKeys = <int>[100, 200, 300, 400, 500, 600];
