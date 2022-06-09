@@ -1,6 +1,6 @@
 name: flutter_reasonable_colors
-description: Reasonable Colors is an open-source color system that makes it easy to build accessible, nice-looking color palettes.
-version: 1.0.0
+description: This is a Flutter package for the open-source color system Reasonable Colors, made by Matthew Howell.
+version: 1.0.1
 homepage: https://reasonable.work/colors/
 repository: https://github.com/georgiadisc/flutter_reasonable_colors
 
